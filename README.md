@@ -11,29 +11,28 @@ Previously, I completed my **M.S. in Computer Science** at **Northwestern Univer
 My research focuses on **multimodal learning** for video, audio, and language understanding. I have developed methods for multimodal reasoning, efficient multimodal learning, and generative multimodal modeling, aiming to build scalable and generalizable multimodal models that advance multimodal question answering, video understanding, and audio–visual reasoning across complex real-world scenarios and dynamic environments. Highlights of my work include:
 
 - **SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models**  
-  *Conference:* EMNLP 2025, **Oral Presentation** \
-  *Authors:* Xingjian Diao, Chunhui Zhang, Keyi Kong, Weiyi Wu, Chiyu Ma, Zhongyu Ouyang, Peijun Qing, Soroush Vosoughi, Jiang Gui
+  *EMNLP 2025 (Oral Presentation)*  
+  **Xingjian Diao**, Chunhui Zhang, Keyi Kong, Weiyi Wu, Chiyu Ma, Zhongyu Ouyang, Peijun Qing, Soroush Vosoughi, Jiang Gui  
 
 - **ProtoVQA: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering**  
-  *Conference:* EMNLP 2025, **Oral Presentation** \
-  *Authors:* Xingjian Diao, Weiyi Wu, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui
+  *EMNLP 2025 (Oral Presentation)*  
+  **Xingjian Diao**, Weiyi Wu, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding**  
-  *Conference:* Findings of NAACL 2025 **Guarini Graduate Student Travel Award, Dartmouth College** \
-  *Authors:* Xingjian Diao, Chunhui Zhang, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui 
-  
+  *Findings of NAACL 2025 — Guarini Graduate Student Travel Award (Dartmouth College)*  
+  **Xingjian Diao**, Chunhui Zhang, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
+
 - **FT2TF: First-Person Statement Text-To-Talking Face Generation**  
-  *Conference:* WACV 2025 \
-  *Authors:* Xingjian Diao, Ming Cheng, Wayner Barrios, SouYoung Jin
+  *WACV 2025*  
+  **Xingjian Diao**, Ming Cheng, Wayner Barrios, SouYoung Jin  
 
 - **Learning Sparsity for Effective and Efficient Music Performance Question Answering**  
-  *Conference:* ACL 2025  \
-  *Authors:* Xingjian Diao, Tianzhen Yang, Chunhui Zhang, Weiyi Wu, Ming Cheng, Jiang Gui
+  *ACL 2025*  
+  **Xingjian Diao**, Tianzhen Yang, Chunhui Zhang, Weiyi Wu, Ming Cheng, Jiang Gui  
 
 - **Learning Musical Representations for Music Performance Question Answering**  
-  *Conference:* Findings of EMNLP 2024, **BMDS Travel Award, Dartmouth College** \
-  *Authors:* Xingjian Diao, Chunhui Zhang, Tingxuan Wu, Ming Cheng, Zhongyu Ouyang, Weiyi Wu, Jiang Gui
-  
+  *Findings of EMNLP 2024 — BMDS Travel Award (Dartmouth College)*  
+  **Xingjian Diao**, Chunhui Zhang, Tingxuan Wu, Ming Cheng, Zhongyu Ouyang, Weiyi Wu, Jiang Gui  
 
 ---
 
