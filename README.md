@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm **Xingjian Diao** ([website](https://xid32.github.io/)), a Ph.D. student in Computer Science at Dartmouth College 🌲, co-advised by [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and [Prof. Jiang Gui](https://scholar.google.com/citations?user=Yd2HEqsAAAAJ&hl=en).
+I'm **[Xingjian Diao](https://xid32.github.io/)**, a Ph.D. student in Computer Science at Dartmouth College 🌲, co-advised by [Prof. Soroush Vosoughi](https://www.cs.dartmouth.edu/~soroush/) and [Prof. Jiang Gui](https://scholar.google.com/citations?user=Yd2HEqsAAAAJ&hl=en).
 
 Previously, I completed my M.S. in Computer Science at Northwestern University 💜, advised by [Prof. Nabil Alshurafa](https://www.thehabitslab.com/). I received my B.S. in Computer Science from the University of Pittsburgh 💙, graduating with **Cum Laude** honors.
 
