@@ -31,7 +31,7 @@ My research focuses on **multimodal learning** for video, audio, and language un
   *Authors:* Xingjian Diao, Tianzhen Yang, Chunhui Zhang, Weiyi Wu, Ming Cheng, Jiang Gui
 
 - **Learning Musical Representations for Music Performance Question Answering**  
-  *Conference:* Findings of EMNLP 2024 **BMDS Travel Award, Dartmouth College** \
+  *Conference:* Findings of EMNLP 2024, **BMDS Travel Award, Dartmouth College** \
   *Authors:* Xingjian Diao, Chunhui Zhang, Tingxuan Wu, Ming Cheng, Zhongyu Ouyang, Weiyi Wu, Jiang Gui
   
 
