@@ -11,11 +11,11 @@ Previously, I completed my M.S. in Computer Science at Northwestern University ð
 My research focuses on **multimodal learning** for video, audio, and language understanding. I have developed methods for multimodal reasoning, efficient multimodal learning, and generative multimodal modeling, aiming to build scalable and generalizable multimodal models that advance multimodal question answering, video understanding, and audioâ€“visual reasoning across complex real-world scenarios and dynamic environments. Highlights of my work include:
 
 - **SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models**  
-  *EMNLP 2025 **(Oral Presentation, top 4.35%)***  
+  *EMNLP 2025 (Oral Presentation, top 4.35%)*  
   **Xingjian Diao**, Chunhui Zhang, Keyi Kong, Weiyi Wu, Chiyu Ma, Zhongyu Ouyang, Peijun Qing, Soroush Vosoughi, Jiang Gui  
 
 - **ProtoVQA: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering**  
-  *EMNLP 2025 **(Oral Presentation, top 4.35%)***  
+  *EMNLP 2025 (Oral Presentation, top 4.35%)*  
   **Xingjian Diao**, Weiyi Wu, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding**  
