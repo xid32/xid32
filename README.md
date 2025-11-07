@@ -6,9 +6,9 @@ Previously, I completed my **M.S. in Computer Science** at **Northwestern Univer
 
 ---
 
-### 🔭 Research
+### 🔍 Research
 
-My research focuses on advancing the intrinsic properties of deep learning across diverse modalities, with an emphasis on trustworthiness, scalability, and applicability to real-world challenges. Highlights of my work include:
+My research focuses on **multimodal learning** for video, audio, and language understanding. I have developed methods for multimodal reasoning, efficient multimodal learning, and generative multimodal modeling, aiming to build scalable and generalizable multimodal models that advance multimodal question answering, video understanding, and audio–visual reasoning across complex real-world scenarios and dynamic environments. Highlights of my work include:
 
 - **SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models**  
   *Conference:* EMNLP 2025, **Oral Presentation** \
@@ -42,12 +42,6 @@ My research focuses on advancing the intrinsic properties of deep learning acros
 * **Amazon Science (Jun 2025 – Sept 2025)**\
   *Applied Scientist Intern, Santa Cruz, CA*\
   Research on **multimodal learning**.
-
----
-
-### 🔍 Current Focus
-
-My research focuses on **multimodal learning** for video, audio, and language understanding. I have developed methods for multimodal reasoning, efficient multimodal learning, and generative multimodal modeling, aiming to build scalable and generalizable multimodal models that advance multimodal question answering, video understanding, and audio–visual reasoning across complex real-world scenarios and dynamic environments.
 
 ---
 
