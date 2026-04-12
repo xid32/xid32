@@ -43,8 +43,16 @@ My research focuses on **multimodal learning** for video, audio, and language un
 
 ### 🧑‍💻 Internship Experience
 
+* **Amazon Science (Jun 2026 – Sept 2026)**\
+  *Applied Scientist Intern, Sunnyvale, CA*\
+  Research on **vision language models**.
+
+* **Samsung Research America (Mar 2026 – Jun 2026)**\
+  *NLP Research Intern, Mountain View, CA*\
+  Research on **agentic memories**.
+
 * **Amazon Science (Jun 2025 – Sept 2025)**\
   *Applied Scientist Intern, Santa Cruz, CA*\
-  Research on **multimodal learning**.
+  Research on **computer vision** and **robotics**.
 
 ---
