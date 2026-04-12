@@ -11,7 +11,7 @@ Previously, I completed my M.S. in Computer Science at Northwestern University ð
 My research focuses on **multimodal learning** for video, audio, and language understanding. I have developed methods for multimodal reasoning, efficient multimodal learning, and generative multimodal modeling, aiming to build scalable and generalizable multimodal models that advance multimodal question answering, video understanding, and audioâ€“visual reasoning across complex real-world scenarios and dynamic environments. Highlights of my work include:
 
 - **[Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization](https://arxiv.org/pdf/2601.04442)**  
-  *ACL Findings 2026*  
+  *Findings of ACL 2026*  
   **Xingjian Diao**, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui  
 
 - **[SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://aclanthology.org/2025.emnlp-main.27.pdf)**  
