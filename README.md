@@ -8,7 +8,7 @@ Previously, I completed my M.S. in Computer Science at Northwestern University 
 
 ### üîç Research
 
-My research focuses on **multimodal learning** for video, audio, and language understanding. I develop methods for multimodal reasoning, efficient multimodal learning, and VLM-based GUI agents, with the goal of building scalable and generalizable models for multimodal question answering and agentic decision-making in complex, dynamic real-world environments. Highlights of my work include:
+My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through synthetic supervision, post-training, and evaluation. Highlights of my work include:
 
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
   *arXiv Preprint 2026*  
