@@ -10,6 +10,11 @@ Previously, I completed my M.S. in Computer Science at Northwestern University ð
 
 My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through synthetic supervision, post-training, and evaluation. Highlights of my work include:
 
+- **[Transition and Recovery Alignment via Verifiable Evidence-Grounded Contracts for Mobile GUI
+Agentss](https://xid32.github.io/images/publications/TRAVEC.pdf)**  
+  *Preprint 2026*  
+  **Xingjian Diao** et. al.
+
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
   *arXiv Preprint 2026*  
   **Xingjian Diao**, Wenbo Li, Yashas Malur Saidutta, Avinash Amballa, Lazar Valkov, Srinivas Chappidi
