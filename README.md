@@ -16,7 +16,7 @@ Agentss](https://xid32.github.io/images/publications/TRAVEC.pdf)**
   **Xingjian Diao** et. al.
 
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
-  *arXiv Preprint 2026*  
+  *Preprint 2026*  
   **Xingjian Diao**, Wenbo Li, Yashas Malur Saidutta, Avinash Amballa, Lazar Valkov, Srinivas Chappidi
 
 - **[Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization](https://arxiv.org/pdf/2601.04442)**  
