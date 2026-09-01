@@ -8,7 +8,7 @@ Previously, I completed my M.S. in Computer Science at Northwestern University 
 
 ### üîç Research
 
-My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through synthetic data flywheels, post-training, and evaluation. Highlights of my work include:
+My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through **synthetic data flywheels**, **post-training**, and **evaluation**. Highlights of my work include:
 
 - **[Transition and Recovery Alignment via Verifiable Evidence-Grounded Contracts for Mobile GUI
 Agentss](https://xid32.github.io/images/publications/TRAVEC.pdf)**  
