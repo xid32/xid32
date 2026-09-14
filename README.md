@@ -10,7 +10,7 @@ Previously, I completed my M.S. in Computer Science at Northwestern University ð
 
 My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through **synthetic data flywheels**, **post-training**, and **evaluation**. Highlights of my work include:
 
-- **[Train to Verify, Deploy to Act: Efficient Learning for Mobile GUI Agents](https://xid32.github.io/images/publications/mobile_gui.pdf)**  
+- **[A Verifiable Data Flywheel for Mobile GUI Agents](https://xid32.github.io/images/publications/mobile_gui_flywheel.pdf)**  
   *Preprint 2026*  
   **Xingjian Diao** et. al.
 
