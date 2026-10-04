@@ -16,14 +16,14 @@ My research focuses on **multimodal learning** for vision, audio, and language u
 
 - **[Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents](https://xid32.github.io/images/publications/ECHO.pdf)**  
   *Preprint 2026*  
-  **Xingjian Diao** et. al.
+  **Xingjian Diao**, Tianyu Yang, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Weiyi Wu, Xingchen Zhao, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui
 
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
   *Preprint 2026*  
   **Xingjian Diao**, Wenbo Li, Yashas Malur Saidutta, Avinash Amballa, Lazar Valkov, Srinivas Chappidi
 
 - **[Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization](https://arxiv.org/pdf/2601.04442)**  
-  *Findings of ACL 2026*  
+  *Findings of ACL 2026 — BMDS Travel Award (Dartmouth College)*  
   **Xingjian Diao**, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui  
 
 - **[SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://aclanthology.org/2025.emnlp-main.27.pdf)**  
