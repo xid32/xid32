@@ -14,7 +14,7 @@ My research focuses on **multimodal learning** for vision, audio, and language u
   *Preprint 2026*  
   **Xingjian Diao** et. al.
 
-- **[Of Errors and Echoes in Tool-Use Agent Credit Assignment](https://xid32.github.io/images/publications/ECHO.pdf)**  
+- **[Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents](https://xid32.github.io/images/publications/ECHO.pdf)**  
   *Preprint 2026*  
   **Xingjian Diao** et. al.
 
