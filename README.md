@@ -16,7 +16,7 @@ My research focuses on **multimodal learning** for vision, audio, and language u
 
 - **[Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents](https://xid32.github.io/images/publications/ECHO.pdf)**  
   *Preprint 2026*  
-  **Xingjian Diao**, Tianyu Yang, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Weiyi Wu, Xingchen Zhao, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui
+  **Xingjian Diao**, Tianyu Yang, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui
 
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
   *Preprint 2026*  
