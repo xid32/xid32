@@ -16,7 +16,7 @@ My research focuses on **multimodal learning** for vision, audio, and language u
 
 - **[Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents](https://arxiv.org/pdf/2610.16027)**  
   *Preprint 2026*  
-  **Xingjian Diao**, Tianyu Yang, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui
+  **Xingjian Diao***, Tianyu Yang*, Wenjun Huang, Xiangchi Yuan, Chunhui Zhang, Xingchen Zhao, Weiyi Wu, Haotian Xu, Soroush Vosoughi, Xiangliang Zhang, Jiang Gui
 
 - **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/pdf/2606.12400)**  
   *Preprint 2026*  
@@ -32,11 +32,11 @@ My research focuses on **multimodal learning** for vision, audio, and language u
 
 - **[ProtoVQA: An Adaptable Prototypical Framework for Explainable Fine-Grained Visual Question Answering](https://aclanthology.org/2025.emnlp-main.54.pdf)**  
   *EMNLP 2025 — (Oral Presentation, top 4.35%)*  
-  **Xingjian Diao**, Weiyi Wu, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui  
+  **Xingjian Diao***, Weiyi Wu*, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **[Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding](https://aclanthology.org/2025.findings-naacl.189.pdf)**  
   *Findings of NAACL 2025 — Guarini Graduate Student Travel Award (Dartmouth College)*  
-  **Xingjian Diao**, Chunhui Zhang, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
+  **Xingjian Diao***, Chunhui Zhang*, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **[Learning Musical Representations for Music Performance Question Answering](https://aclanthology.org/2024.findings-emnlp.159.pdf)**  
   *Findings of EMNLP 2024 — BMDS Travel Award (Dartmouth College)*  
