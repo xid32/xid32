@@ -8,7 +8,7 @@ Previously, I completed my M.S. in Computer Science at Northwestern University 
 
 ### üîç Research
 
-My research focuses on **multimodal learning** for vision, audio, and language understanding, particularly hill-climbing pipelines for MLLMs through **synthetic data flywheels**, **post-training**, and **evaluation**. Highlights of my work include:
+My research focuses on **post-training** and **reinforcement learning** for MLLMs and agents, particularly hill-climbing pipelines built on **synthetic data flywheels**, reward modeling, and evaluation. Highlights of my work include:
 
 - **[A Verifiable Data Flywheel for Mobile GUI Agents](https://xid32.github.io/images/publications/mobile_gui_flywheel.pdf)**  
   *Preprint 2026*  
