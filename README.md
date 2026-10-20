@@ -12,7 +12,7 @@ My research focuses on **post-training** and **reinforcement learning** for MLLM
 
 - **[A Verifiable Data Flywheel for Mobile GUI Agents](https://xid32.github.io/images/publications/mobile_gui_flywheel.pdf)**  
   *Preprint 2026*  
-  **Xingjian Diao** et. al.
+  **Xingjian Diao** et al.
 
 - **[Of Errors and Echoes: Responsibility-Aware Credit Assignment for Tool-Use Agents](https://arxiv.org/pdf/2610.16027)**  
   *Preprint 2026*  
