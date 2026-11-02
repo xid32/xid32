@@ -23,7 +23,7 @@ My research focuses on **post-training** and **reinforcement learning** for MLLM
   **Xingjian Diao**, Wenbo Li, Yashas Malur Saidutta, Avinash Amballa, Lazar Valkov, Srinivas Chappidi
 
 - **[Addressing Overthinking in Large Vision-Language Models via Gated Perception-Reasoning Optimization](https://arxiv.org/pdf/2601.04442)**  
-  *Findings of ACL 2026 — BMDS Travel Award (Dartmouth College)*  
+  *Findings of ACL 2026*  
   **Xingjian Diao**, Zheyuan Liu, Chunhui Zhang, Weiyi Wu, Keyi Kong, Lin Shi, Kaize Ding, Soroush Vosoughi, Jiang Gui  
 
 - **[SoundMind: RL-Incentivized Logic Reasoning for Audio-Language Models](https://aclanthology.org/2025.emnlp-main.27.pdf)**  
@@ -35,11 +35,11 @@ My research focuses on **post-training** and **reinforcement learning** for MLLM
   **Xingjian Diao***, Weiyi Wu*, Keyi Kong, Peijun Qing, Xinwen Xu, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **[Temporal Working Memory: Query-Guided Temporal Segment Refinement for Enhanced Multimodal Understanding](https://aclanthology.org/2025.findings-naacl.189.pdf)**  
-  *Findings of NAACL 2025 — Guarini Graduate Student Travel Award (Dartmouth College)*  
+  *Findings of NAACL 2025*  
   **Xingjian Diao***, Chunhui Zhang*, Weiyi Wu, Zhongyu Ouyang, Peijun Qing, Ming Cheng, Soroush Vosoughi, Jiang Gui  
 
 - **[Learning Musical Representations for Music Performance Question Answering](https://aclanthology.org/2024.findings-emnlp.159.pdf)**  
-  *Findings of EMNLP 2024 — BMDS Travel Award (Dartmouth College)*  
+  *Findings of EMNLP 2024*  
   **Xingjian Diao**, Chunhui Zhang, Tingxuan Wu, Ming Cheng, Zhongyu Ouyang, Weiyi Wu, Jiang Gui
 
 - **[Learning Sparsity for Effective and Efficient Music Performance Question Answering](https://aclanthology.org/2025.acl-short.12.pdf)**  
